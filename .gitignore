@@ -1,0 +1,4 @@
+.idea
+/docker/nginx/ssl/
+/docker/db/data/
+!/docker/db/data/.gitkeep
